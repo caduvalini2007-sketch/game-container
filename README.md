@@ -45,7 +45,7 @@ O projeto foi organizado seguindo boas práticas de separação de responsabilid
    ```
 
 2. **Configurar o Banco de Dados**:
-   - Importe o arquivo localizado em `sql/trabalho_claudemir.sql` no seu servidor MySQL.
+   - Importe o arquivo localizado em `sql/game_container.sql` no seu servidor MySQL.
    - O banco de dados padrão é `game_container`.
 
 3. **Configurar a Conexão**:
